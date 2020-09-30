@@ -1,4 +1,4 @@
-# ProyectoBasesDeDatosLineaAerea
+# Proyecto de Bases De Datos Linea Aerea
 
 Se diseñó el proyecto de un sistema interactivo que administra la venta y reserva de pasajes de una linea aerea.
 
