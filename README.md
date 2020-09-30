@@ -1,4 +1,6 @@
 # ProyectoBases
 
-SE DISEÑÓ EL PROYECTO DE UN SISTEMA INTERACTIVO QUE ADMINISTRA LA VENTA Y RESERVA DE PASAJES DE UNA LINEA AEREA. 
-ESTA HECHO EN JAVA CON BASES DE DATOS EN MYSQL.
+Se diseñó el proyecto de un sistema interactivo que administra la venta y reserva de pasajes de una linea aerea.
+
+Esta hecho en Java con bases de datos en Mysql. Se diseño previamente con diferentes diagramas UML y se usaron técnicas de Solid y clean code para su implementación.
+
