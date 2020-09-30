@@ -1,0 +1,12 @@
+Entidades:
+AEROPUERTO (Codigo_internacional, nombre, horario, teléfono,             Ciudad, Estado, País).
+UBICACIONES (Ciudad, Estado, País, huso).
+VUELO_PROGRAMADO (Numero_Vuelo, origen, destino,              Aeropuerto_Llegada, Aeropuerto Salida).
+MODELO_AVION (Nombre, cant_asientos, cant_cabinas, fabricante).
+SALIDAS (Dia, horario_salida, horario_llegada,               Modelo, Vuelo).
+INSTANCIAS_VUELO (Fecha, estado,                       Vuelo,Dia).
+RESERVA (Codigo_Reserva, fecha_solicitada, fecha_vencimiento, estado,      Legajo_Emp, Doc_Num_Pas, Doc_Tipo_Pas).
+CLASES (Nombre, porcentaje).
+COMODIDADES (Código, descripción).
+EMPLEADOS (Legajo, doc_tipo, doc_numero, nombre, apellido, dirección, teléfono, password).
+PASAJEROS (Doc_Numero, Doc_Tipo, nombre, apellido, teléfono, dirección, nacionalidad).

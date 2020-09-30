@@ -1,0 +1,25 @@
+Comisión Lamoureux - Montano
+----------------------------------
+REENTREGA PROYECTO 2
+---------------------------------
+
+Verificador: OK
+
+Vista: OK
+
+Logueo Admin: OK
+Ejecución de consultas SQL: OK
+   
+Logueo de Empleado: OK
+Consulta de vuelos disponibles: OK
+OBS: Una vez ingresada una consulta de vuelos disponibles (ciudad, fecha), se muestra correctamente la información pero debería proveer la
+	 posibilidad de ingresar una nueva consulta sin perder el logueo: NO SOLUCIONADO
+--------------------------------------
+REENTREGA PROYECTO 3
+-------------------------------------
+Stored Procedures
+	Transacción para reservar vuelo de ida: OK
+	Transacción para reservar vuelo de ida y vuelta: OK
+	Prueba de reservas desde aplicación: OK
+	
+Triger: OK
